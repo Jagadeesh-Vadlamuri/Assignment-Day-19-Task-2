@@ -1,0 +1,52 @@
+#table-1{
+    margin-left:-700px;
+    margin-top:30px;
+}
+#title{
+    text-align:center;
+}
+#description{
+    text-align:center;
+}
+#form-1{
+    margin-top:30px;
+    margin-left:20px;
+}
+#address, #pincode, #country {
+    margin-left: 17px;
+}
+#state{
+    margin-left: 39px;
+}
+#mango{
+    margin-left: 14px;
+}
+#grape{
+    margin-left: 16px;
+}
+#cherry{
+    margin-left: 12px;
+}
+#guava{
+    margin-left: 0px;
+}
+#radio-2{
+    margin-left: 16px;
+}
+label{
+    font-weight: bolder;
+    color:rgb(0,0,0);
+}
+.body{
+    background-color: rgb(147, 243, 211);
+}
+#fname:hover, #lname:hover, #address:hover, #pincode:hover, #state:hover, #country:hover{
+    border:3px solid blue;
+    border-radius: 6px;
+    outline:1px solid gray;
+}
+.table-body > td{
+    border: 1px solid black;
+}
+
+
